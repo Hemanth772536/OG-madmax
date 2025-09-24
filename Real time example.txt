@@ -1,7 +1,7 @@
  Real time example :
-Imagine you're building a mobile app like swiggy 
+Imagine you're building a mobile app like swiggy.
 
- The developer writes code to add "Tracck my order" feature.
+ The developer writes code to add "Track my order" feature.
 Without devops : Developer give code.
 
 plan mode - Define what is build.
@@ -11,7 +11,8 @@ Test mode - Check for bugs automatically.
 Release - Approves the build for deployement.
 Deploy - push app to servers or app store.
 Operate - keep app running, fix any issues.
-\
+
 Real time Example
-you r working with a team on an online shopping website.
+you are working with a team on an online shopping website.
+
 add a wishlist page
